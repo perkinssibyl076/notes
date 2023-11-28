@@ -60,3 +60,6 @@ Remember to stay flexible and adaptable, as projects and priorities can change q
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote humorously highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of considering the end-user's potential limitations and behaviors during the design and development process.
+
+# 2023-11-28
+- "Programming wisdom for today: Always comment your code. Writing clear and concise comments not only helps you remember what your code does but also makes it easier for others to understand and maintain your code in the future."
