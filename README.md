@@ -81,3 +81,8 @@ This quote highlights the ongoing challenge that programmers face in creating us
 First, prioritize your tasks. When you are working on a project, it is essential to determine which tasks are most important and which can wait. By prioritizing your work, you can make sure that you focus on the most critical aspects of the project and not get sidetracked by less significant tasks or distractions. Use a task management tool, such as Trello or Asana, to help keep track of your priorities and progress. 
  -
 Next, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Create a roadmap that outlines the steps you need to take to complete the task or project. Doing so will ensure that your code is structured well and that all the necessary pieces are in place. Planning also helps to avoid last-minute panic and stress, as you will already have a clear idea of what needs to happen and when.
+
+# 2023-12-02
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+Optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potentially worse performance overall. It's important to write clear and understandable code first, then optimize only where necessary.
