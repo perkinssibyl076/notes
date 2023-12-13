@@ -131,3 +131,8 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-12
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Avoid unnecessary complexity and strive for clarity in your code. Remember that code is read far more often than it is written, so make it easy for others (and your future self) to understand what your code does and how it works. Use consistent naming conventions, add comments where necessary, and break up long functions into smaller, more manageable ones. By prioritizing readability and maintainability, you'll make your code easier to debug, modify, and extend over time.
+
+# 2023-12-13
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine which tasks are most important and which can be completed later. Then, break down each task into smaller, manageable steps. By organizing your tasks in this way, you can better understand the work involved and ensure that you don't get overwhelmed.
+
+Next, use scheduling tools and apps to plan out your day. Block off time for each tasks and set reminders to help keep you on track. Be sure to allot enough time to complete each step, as well as some buffer time in case something takes longer than expected. You can also use these tools to track your progress and adjust your plan as needed.
