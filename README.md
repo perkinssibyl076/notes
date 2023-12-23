@@ -183,3 +183,6 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 3. Stay organized: Use project management tools and software to keep track of all your tasks and deadlines. Organizing your workflow will make it easier to stay on track and make better decisions.  
 4. Learn from others: Read blogs, watch tutorials, or join online communities to learn from other developers and gain new skills. Always be open to learning and improving your craft.   
 5. Practice good coding habits: Make sure you follow best practices in coding, such as using version control, writing clean and readable code, commenting your code appropriately, etc. These habits will not only make your life easier but also contribute to your professional growth.
+
+# 2023-12-23
+- "Keep it simple, stupid!"
