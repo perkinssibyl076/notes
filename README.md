@@ -272,3 +272,8 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2024-01-12
 - "Keep it simple, stupid!"
+
+# 2024-01-13
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first. Optimize only when necessary, after profiling and identifying real bottlenecks. Remember that simplicity, readability, and modularity often lead to more efficient systems in the long run." 
+
+In other words, don't try to optimize your code before you have a solid understanding of where the performance issues lie. Invest your time wisely by initially creating good quality code that's easy to understand and modify. This approach will save you time, effort, and potential bugs compared to hasty optimizations based on assumptions or guesses.
