@@ -327,3 +327,8 @@ To become a successful programmer, one should also have a solid foundation in co
 
 # 2024-01-24
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadline. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and software to keep your project organized and up-to-date. Remember to take breaks and avoid multitasking, which can be distracting and reduce your efficiency. By following these tips, you can become a more skilled and effective programmer.
+
+# 2024-01-25
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, strive to write clean, readable, and maintainable code. Avoid unnecessary complexity; it often leads to bugs, scalability issues, and difficulty in collaboration. Always remember that you're not just writing code for the computer to execute but also for other developers to read, understand, and build upon." 
+
+"In addition, 'Premature optimization is the root of all evil' — Donald Knuth. Focus on making your code correct first, then optimize if and where necessary. Modern day hardware capabilities and evolving software architectures mean that over-optimizing early can lead to harder-to-read code without significant performance gains. Continuously improve your codebase through refactoring, testing, and embracing best practices and design patterns."
