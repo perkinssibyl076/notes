@@ -410,3 +410,6 @@ In practice, this means avoiding unnecessary complexity, using clear and concise
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a more valuable asset to your team or company, allowing you to contribute more effectively to projects and solve problems more efficiently.
 
 Another important aspect of programming wise is communication. As a programmer, it is essential to work closely with other team members, such as designers, product managers, or clients. Effective communication helps to ensure that everyone is on the same page and that projects are completed successfully. Learn to clearly express your ideas and thoughts, both orally and in writing, to make your work more collaborative and enjoyable.
+
+# 2024-02-13
+- "Keep it simple, stupid!"
