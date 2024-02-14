@@ -413,3 +413,10 @@ Another important aspect of programming wise is communication. As a programmer, 
 
 # 2024-02-13
 - "Keep it simple, stupid!"
+
+# 2024-02-14
+- Today's programming wisdom: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that focusing on optimizing code before it's necessary can lead to complex, hard-to-maintain software and often distracts from solving the actual problem correctly. Always strive for clear, readable code first, then optimize when you have data to support it. 
+
+Another pearl is "Make it work, make it right, make it fast" in that order. This emphasizes the importance of following a sequential process where initially you ensure your program functions correctly, then refactor for clarity and adherence to best practices, and only in the final stage focus on performance optimizations. 
+
+Lastly, "Code is read much more often than it is written." This highlights the significance of writing clean, understandable code as its readability will impact how effectively others (and future you) can work with it. Remember, good code not only executes well but also communicates its intent clearly to human readers.
